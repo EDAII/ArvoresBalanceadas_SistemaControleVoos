@@ -1,27 +1,18 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Arv_SistemaControleVoos
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+![C](https://img.shields.io/badge/Language-C-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.0-orange)
+
+## Alunos
+| Matrícula | Nome |
+|-----------|------|
+| 21/1031593 | Andre Lopes de Sousa |
+| 23/1012129 | Gabriel Lopes de Amorim |
+
+## Descrição do Projeto
+
+Este projeto implementa um sistema de Controle de Voos de Aeroporto, que demonstra a aplicação prática das três árvores balanceadas que vimos em sala de aula: Heap, Árvore AVL e Árvore Rubro-Negra. O projeto vai alem de uma implementação basica das estruturas, ele oferece funcionalidades completas de gerenciamento de aeroporto.
 ## Guia de instalação
 Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
 ### Dependências do projeto
